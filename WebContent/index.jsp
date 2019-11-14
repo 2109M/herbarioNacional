@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Inicio</title>
+    <title>Pagina principal</title>
     <link rel="stylesheet" href="./resources/css/app.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 </head>
@@ -28,7 +28,7 @@
                         <a href="index.jsp" class="Header-menuItem page">Inicio</a>
                         <a href="anuncios.jsp" class="Header-menuItem">Anuncios</a>
                         <a href="AboutUs.jsp" class="Header-menuItem">Servicios</a>
-                        <a href="subscribe.jsp" class="Header-menuItem">Suscripción</a>
+                        <a href="subscribe.jsp" class="Header-menuItem">Suscripciï¿½n</a>
                         <a href="tips.jsp" class="Header-menuItem">Muestra</a>
                         <a href="contact.jsp" class="Header-menuItem">Contactos</a>
                         <a href="mapaSitio.jsp" class="Header-menuItem">Mapa del sitio</a>
@@ -54,7 +54,7 @@
                 <p class="Header-boxText">
                     Maseleme leifendeuctor wisnes nera iliquam eratutpas.
                 </p>
-                <a href="tips.html" class="Header-boxLink">Ver más</a>
+                <a href="tips.html" class="Header-boxLink">Ver mï¿½s</a>
             </div>
             <div class="Header-box">
                 <img src="public/img/muestra4.jpg" alt="" class="Header-boxImage">
@@ -66,7 +66,7 @@
                 <p class="Header-boxText">
                     Maseleme leifendeuctor wisnes nera iliquam eratutpas.
                 </p>
-                <a href="tips.html" class="Header-boxLink">Ver más</a>
+                <a href="tips.html" class="Header-boxLink">Ver mï¿½s</a>
             </div>
             <div class="Header-box text bgYellow">
                 <h3 class="Header-boxTitle">
@@ -75,7 +75,7 @@
                 <p class="Header-boxText">
                     Maseleme leifendeuctor wisnes nera iliquam eratutpas.
                 </p>
-                <a href="tips.html" class="Header-boxLink">Ver más</a>
+                <a href="tips.html" class="Header-boxLink">Ver mï¿½s</a>
             </div><div class="Header-box">
                 <img src="public/img/muestra5.jpg" alt="" class="Header-boxImage">
             </div>
@@ -86,7 +86,7 @@
                 <p class="Header-boxText">
                     Maseleme leifendeuctor wisnes nera iliquam eratutpas.
                 </p>
-                <a href="tips.html" class="Header-boxLink">Ver más</a>
+                <a href="tips.html" class="Header-boxLink">Ver mï¿½s</a>
             </div>
             <div class="Header-box">
                 <img src="public/img/muestra6.jpg" alt="" class="Header-boxImage">
@@ -98,37 +98,37 @@
     <section class="Main">
         <div class="container">
             <h2 class="Main-title">Bienvenido</h2>
-            <p class="Main-text">Bienvenido al Herbario Nacional, instituto de investigación y coleccion de plantas de Nicaragua, comunes, especies raras y especies en peligro de extinción.</p>
+            <p class="Main-text">Bienvenido al Herbario Nacional, instituto de investigaciï¿½n y coleccion de plantas de Nicaragua, comunes, especies raras y especies en peligro de extinciï¿½n.</p>
             <div class="row">
                 <div class="col-12 col-lg-6">
                     <article class="Naturopathy">
-                        <h3 class="Naturopathy-title">Misión</h3>
+                        <h3 class="Naturopathy-title">Misiï¿½n</h3>
                         <h4 class="Naturopathy-subTitle">Masagni dolores eoquie voluptmsequi nesciu iqui squam fASERestqui dolorem ipsumquia dolor mesrtase vertyader nierta niuyserdas</h4>
                         <p class="Naturopathy-text">Sitamet consectet, adipisci uumquam eius modi tempora incidunte, ut labore et dolore magnam. Baliquamaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Asruis autem vel eum iure feruyas reprehenderit, qui a voluptate nertyaesra.</p>
                     </article> 
                 </div>
                 <div class="col-12 col-lg-6">
                     <article class="Naturopathy">
-                        <h3 class="Naturopathy-title">Visión</h3>
+                        <h3 class="Naturopathy-title">Visiï¿½n</h3>
                         <h4 class="Naturopathy-subTitle">Masagni dolores eoquie voluptmsequi nesciu iqui squam fASERestqui dolorem ipsumquia dolor mesrtase vertyader nierta niuyserdas</h4>
                         <p class="Naturopathy-text">Sitamet consectet, adipisci uumquam eius modi tempora incidunte, ut labore et dolore magnam. Baliquamaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Asruis autem vel eum iure feruyas reprehenderit, qui a voluptate nertyaesra.</p>
                     </article> 
                 </div>
                 <div class="col-12">
                     <aside class="News">
-                        <h3 class="News-title">Últimas noticias</h3>
+                        <h3 class="News-title">ï¿½ltimas noticias</h3>
                         <div class="News-wrapperRow">
                             <div class="News-wrapper">
                                 <date class="News-day">24<span class="News-month">Marzo</span></date>
                                 <h4 class="News-subtitle">Titulo de la noticia</h4>
                                 <p class="News-text">Mertyrda odesa satrolrta Leugiat malesui nundg res lmasetnas raerase nlasadede fertas</p>
-                                <a class="News-btn" href="News&events.html"> Ver más</a>
+                                <a class="News-btn" href="News&events.html"> Ver mï¿½s</a>
                             </div>
                             <div class="News-wrapper">
                                 <date class="News-day">24<span class="News-month">Marzo</span></date>
                                 <h4 class="News-subtitle">Titulo de la noticia</h4>
                                 <p class="News-text">Mertyrda odesa satrolrta Leugiat malesui nundg res lmasetnas raerase nlasadede fertas</p>
-                                <a class="News-btn" href="News&events.html">Ver más</a>
+                                <a class="News-btn" href="News&events.html">Ver mï¿½s</a>
                             </div>   
                         </div>
                     </aside>
@@ -208,7 +208,7 @@
                                     <p class="Principles-text">asety kertya aset aplicaboserde miuas nerafae kertyerauas vitaesa ertyatya nemo eniptaiades.</p>
                                 </div>
                             </div>
-                            <a class="Principles-btn" href="servicios.jsp">mostrar más</a>                      
+                            <a class="Principles-btn" href="servicios.jsp">mostrar mï¿½s</a>                      
                     </article>
                 </div>
             </div>
