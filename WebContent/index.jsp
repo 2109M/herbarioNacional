@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-12">
                     <aside class="News">
-                        <h3 class="News-title">�ltimas noticias</h3>
+                        <h3 class="News-title">Noticias</h3>
                         <div class="News-wrapperRow">
                             <div class="News-wrapper">
                                 <date class="News-day">24<span class="News-month">Marzo</span></date>
